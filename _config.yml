@@ -1,3 +1,5 @@
 name: Kira Hart Shanks, Optical Scientist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
